@@ -1,0 +1,12 @@
+办法有很多，按理说创建 pr 可以直接选的，不一定是自己的仓库。
+github 的 ui 我也不熟悉，不过我知道怎么编辑 url
+
+比如 https://github.com/xxx/fastapi/compare/master...DevDae:master
+
+https://github.com/{你的名字}/{仓库}/compare/{你的分支}...{对方名字}:{对方分支}
+
+直接构建这么一个 url 打开，就是对比两个分支的界面，基于这个对比创建一个合并应该就行了。
+
+https://github.com/m-ltv/tvbox/compare/main...comblue:main
+https://github.com/m-ltv/tvbox/compare/main...ixiumu:dev
+https://github.com/m-ltv/tvbox/compare/main...scemsjyd:main
